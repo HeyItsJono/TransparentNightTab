@@ -1,0 +1,5 @@
+@-moz-document url("about:home"), url("about:newtab") {
+  .is-theme-style-dark body, .is-theme-style-light body, html.is-theme-style-dark, html.is-theme-style-light {
+    background-color: transparent !important;
+  }
+}
